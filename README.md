@@ -23,3 +23,11 @@ Usage
 
 It is full website about career with 2 languages VietNam and English
 Extend the user controller or keep it as it is and write your own application with Codeigniter.
+
+Note
+----
+ALl data just cron from Vietnamwork and itviec therefore it is just test
+
+Demo
+----
+If you want to view demo then here you are [Demo](http://vantaiduccuong.com/workspharma.dev)
