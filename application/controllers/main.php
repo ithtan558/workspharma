@@ -34,7 +34,7 @@ class Main extends Application{
     public function index()
     {
         $this->load->library('encrypt');
-        echo $this->encrypt->encode('test_api');
+        //echo CI_VERSION;
         //danh sach san pham
         $this->_data['index']=true;
         if($this->siteoffline==1)
@@ -347,7 +347,6 @@ class Main extends Application{
             $app_id = $arrayPost['app_id'];
             // get List user api
             $listAppId = $this->congif->item('list_api');
-            if ()
             $order=array('jobs.views','DESC');
             $limit=array(10);
             $condition=array('jobs.status'=>1, 'jobs.is_deleted' => 0);
