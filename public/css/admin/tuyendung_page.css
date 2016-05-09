@@ -1,0 +1,56 @@
+
+.TableGrid {border-collapse: collapse; width: 100%;}
+.TableGrid tr th {line-height: 30px; border: 1px solid #d3d3d3; vertical-align: top; text-align: left; padding: 5px 6px 5px 6px; white-space: nowrap; color: #CF2B2A; border-bottom: 1px solid #C4CCE0; font-family: Arial !important; font-size: 14px; font-weight: normal;background-color: #FFFFFF;}
+.TableGrid tr td {border: 1px solid #d3d3d3;padding: 9px 6px 9px 6px; vertical-align: top; border-bottom: 1px solid #E3E3E3;}
+.TableGrid tr.Odd td {background: #FFFFFF;}
+.TableGrid tr.Even td {font-size:12px;}
+.TableGrid tr td{//background-color: #ffffff;font-size:12px;}
+.TableGrid tr:hover td {background: #D7FFEB; border-bottom: 1px solid #C4CCE0;}
+.TableGrid tr td a.NormalEmployer {color: #505050;}
+.TableGrid tr td a.VipEmployer {color: #1155CC;}
+.TableGrid tr td span.NormalSeeker {color: #505050;}
+.TableGrid tr td span.VipSeeker {color: #1155CC;}
+.TableGrid tr td a.NormalJob {}
+.TableGrid tr td a.FocusJob {color: #B44443; text-decoration: underline;}
+.tr_two{
+	background:#F4F4F4;
+}
+.sub{
+	padding-left:20px;
+}
+.table_admin{
+	width: 100%;
+	padding-left:20px;
+	padding-top: 10px;
+}
+.table_admin tr td:first-child{
+	width: 15%;
+}
+.daduyet{
+	background: none repeat scroll 0 0 #00CC66;
+border-radius: 3px 3px 3px 3px;
+color: #FFFFFF;
+display: inline-block;
+padding: 1px 4px 2px;
+white-space: nowrap;
+text-decoration:none;
+}
+.chuaduyet{
+	background: none repeat scroll 0 0 #E02B54;
+border-radius: 3px 3px 3px 3px;
+color: #FFFFFF;
+display: inline-block;
+padding: 1px 4px 2px;
+white-space: nowrap;
+text-decoration:none
+}
+.chuaduyet:hover{
+	color:#000;
+}
+.content table tr td{
+	padding: 5px 0px;
+}
+.content input[type="text"]{
+	width: 50%;
+	padding: 7px;
+}

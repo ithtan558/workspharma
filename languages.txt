@@ -1,0 +1,4 @@
+﻿languages:Ngôn ngữ
+main-products: Sản phẩm chính
+typcial-products: Sản phẩm nổi bật
+read-more: Ðọc thêm
